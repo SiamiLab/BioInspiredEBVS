@@ -43,7 +43,7 @@ These measurements are then used to synthesize a feedback control law directly i
 
 <br>
 <div align="center">
-    <img align="center" src="resources/media/lab_setup.png" width="900" alt="diagram">
+    <img align="center" src="resources/media/lab_setup.png" width="800" alt="diagram">
 </div>
 <br>
 
@@ -51,7 +51,7 @@ These measurements are then used to synthesize a feedback control law directly i
 
 ## Demo
 
-Demo is under construction, for now let's have a minimal video:
+Demo is under construction, for now let's watch a minimal video:
 <!-- TODO -->
 
 https://github.com/user-attachments/assets/1b1ea860-8d66-4f63-bf03-363e3c2098a5
