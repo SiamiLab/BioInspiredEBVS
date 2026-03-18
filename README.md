@@ -53,3 +53,7 @@ These measurements are then used to synthesize a feedback control law directly i
 
 Demo is under construction, for now let's have a minimal video:
 <!-- TODO -->
+
+https://github.com/user-attachments/assets/1b1ea860-8d66-4f63-bf03-363e3c2098a5
+
+
