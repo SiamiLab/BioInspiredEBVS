@@ -51,9 +51,12 @@ These measurements are then used to synthesize a feedback control law directly i
 
 ## Demo
 
-Demo is under construction, for now let's watch a minimal video:
+Please increase the volume to hear the explanations in the video.🔊🔊
+For the best viewing quality, please refer to the full-resolution video available [here (TODO)](here).
 <!-- TODO -->
 
-https://github.com/user-attachments/assets/1b1ea860-8d66-4f63-bf03-363e3c2098a5
+
+https://github.com/user-attachments/assets/bca533f2-8ee5-4474-b76c-af44023bdbe5
+
 
 
