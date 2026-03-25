@@ -56,7 +56,9 @@ Please increase the volume to hear the explanations in the video.🔊🔊
 For the best viewing quality, please refer to the full-resolution video available [here (TODO)](here).
 <!-- TODO -->
 
-https://github.com/user-attachments/assets/0c67a733-a47f-4edb-91c9-3b8c8dca6dc8
+https://github.com/user-attachments/assets/507ee854-b203-4a48-841c-b3b73a550105
+
+
 
 
 
