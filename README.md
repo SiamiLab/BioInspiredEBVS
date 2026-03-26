@@ -14,6 +14,11 @@
     ⚠️ Code and datasets will be made publicly available upon paper acceptance ⚠️
   </span>
 </p>
+<p align="center">
+  <span style="color:green; font-weight:bold;">
+    ✅ In the meantime, this repository presents a high-level overview of the work and includes a demonstration video ✅
+  </span>
+</p>
 
 # BioInspiredEBVS
 
@@ -50,12 +55,13 @@ These measurements are then used to synthesize a feedback control law directly i
 
 
 ## Demo
+For the best viewing quality, please refer to the full-resolution video [available on YouTube](https://www.youtube.com/watch?v=ozExyzWiqNE).
 
-Please increase the volume to hear the explanations in the video.🔊🔊
-
-For the best viewing quality, please refer to the full-resolution video available [here (TODO)](here).
-<!-- TODO -->
-
+<p align="center">
+  <span style="color:green; font-weight:bold;">
+    🔊🔊 Please increase the volume to hear the explanations in the video 🔊🔊
+  </span>
+</p>
 https://github.com/user-attachments/assets/507ee854-b203-4a48-841c-b3b73a550105
 
 
